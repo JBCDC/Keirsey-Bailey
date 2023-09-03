@@ -1814,7 +1814,7 @@ dimensions.
 The 16 Keirsey subtypes (and 4 Myers-Briggs types) can be correlated
 with the seven rays as follows:
 
-<img src="media/image3.emf" style="width:6.5in;height:4.00486in" />
+<img src="Table 1.png" style="width:6.5in;height:4.00486in" />
 
 Source:
 [ngsm.org/agni-yoga/KST-JB1.htm](http://www.ngsm.org/agni-yoga/KST-JB1.htm)
