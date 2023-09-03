@@ -1,5 +1,8 @@
 # Contents
-
+<div style="display: flex;">
+  <div style="flex: 25%; padding: 5px; border-right: 1px solid black;">
+      <!-- Your main text goes here -->
+      
 [Bailey’s Primary and Derivative Rays
 [3](#baileys-primary-and-derivative-rays)](#baileys-primary-and-derivative-rays)
 
@@ -108,6 +111,9 @@
 [54](#the-four-elements-and-astrology)](#the-four-elements-and-astrology)
 
 [Periodic Table [60](#periodic-table)](#periodic-table)
+
+</div>
+</div>
 
 ## Bailey’s Primary and Derivative Rays 
 
