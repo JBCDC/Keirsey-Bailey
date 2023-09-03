@@ -1,7 +1,3 @@
-<div style="display: flex;">
-  <div style="flex: 25%; padding: 5px; border-right: 1px solid black;">
-      <!-- Your main text goes here -->
-
 # Contents
       
 [Bailey’s Primary and Derivative Rays
@@ -113,8 +109,6 @@
 
 [Periodic Table [60](#periodic-table)](#periodic-table)
 
-</div>
-</div>
 
 ## Bailey’s Primary and Derivative Rays 
 
