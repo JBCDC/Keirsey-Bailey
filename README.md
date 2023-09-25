@@ -8,5 +8,7 @@ This compelling concordance, observed by the author 25 years ago, initiated this
 
 It's crucial to acknowledge that this is purely a theoretical exploration. However, it's worth noting that theoretical physics has often paved the way for empirical discoveries, predicting the existence of subatomic particles before they were experimentally verified. In a similar vein, this initial exploration might serve as a foundation for subsequent theoretical and empirical research. The objective is to validate what has already been understood through sound and color: a sevenfold key to unraveling the complexities of evolution and human consciousness.
 
+SEE: <https://bookdown.org/becerra_je/7-Rays/>
+
 -JB 2023.09.03     
 
