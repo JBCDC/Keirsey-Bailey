@@ -1,0 +1,52 @@
+# Music Theory 
+
+**Music Theory and the Seven Rays**
+
+In the context of Western music theory, the heptatonic scale is a seven-note musical scale. The most common heptatonic scale is the diatonic scale, which includes five whole steps and two half steps in each octave, in a specific pattern. The major scale and natural minor scale are both diatonic.
+
+The assignment of rays to these degrees of the scale is not a standard practice in music theory, but we can approach this with a philosophical perspective and logical reasoning within the constraints you've set.
+
+Assuming that Ray 1 (Father principle) is assigned to the tonic (I), Ray 2 (Son principle) to the dominant (V), and Ray 3 (Mother principle) to the subdominant (IV), we can consider the remaining degrees of the scale - the supertonic (ii), mediant (iii), submediant (vi), and leading tone (vii) - in relation to these primary rays.
+
+In the C major scale, these four remaining notes are D (ii), E (iii), A (vi), and B (vii). Here's one possible assignment based on their roles within the scale:
+
+1.	Ray 4: The supertonic (ii) or D, which serves as a bridge between the tonic and the mediant, could be assigned to this ray.
+2.	Ray 5: The mediant (iii) or E, lying midway between the tonic and the dominant, could be assigned to this ray.
+3.	Ray 6: The submediant (vi) or A, which mirrors the mediant's position in the upper tetrachord, could be assigned to this ray.
+4.	Ray 7: The leading tone (vii) or B, which resolves to the tonic, could be assigned to this ray.
+
+This interpretation is philosophical and speculative, grounded in the systematic exploration of music theory and the principles of logical reasoning. However, the actual musical effects of this ray assignment will depend on various factors, including the specific composition, performance, and listener interpretation.
+
+**Cycle of fifths**
+ 
+The cycle of fifths, also known as the circle of fifths, is a fundamental concept in music theory that describes the relationship between the twelve tones of the chromatic scale, their corresponding key signatures, and the associated major and minor keys. It's a geometrical representation where each note is a fifth apart.
+
+If we were to assign the rays based on the cycle of fifths, we need to consider how this cycle operates. In the cycle of fifths, each note is a perfect fifth (7 semitones) apart from the next. Starting from C (our tonic), moving clockwise gives us G (dominant), D (supertonic), A (submediant), E (mediant), B (leading tone), and F# (an augmented fourth or diminished fifth, also known as the tritone).
+
+Assuming that Ray 1 is assigned to the tonic (I), Ray 2 to the dominant (V), and Ray 3 to the subdominant (IV), we can consider the remaining degrees of the scale - the supertonic (ii), mediant (iii), submediant (vi), and leading tone (vii) - in relation to these primary rays.
+
+In this context, one possible assignment could be:
+
+- Derivative Ray 4: The supertonic (ii) or D, which is the second step in the cycle of fifths starting from C.
+- Derivative Ray 5: The submediant (vi) or A, which is the third step in the cycle of fifths.
+- Derivative Ray 6: The mediant (iii) or E, which is the fourth step in the cycle of fifths.
+- Derivative Ray 7: The leading tone (vii) or B, which is the fifth step in the cycle of fifths.
+
+This assignment reflects the harmonic relationships and tonal hierarchy inherent in the diatonic scale and the cycle of fifths, providing a systematic and logical approach to understanding the musical structure. However, it's important to note that this is a theoretical exploration, and the actual musical effects will depend on the specific composition and performance.
+
+**Tonnetz lattice**
+ 
+The Tonnetz lattice, originally proposed by Euler and later developed by neo-Riemannian theorists, provides a fascinating tool for exploring tonal relationships in music. This lattice represents tonal space as a grid where each point corresponds to a pitch class and the spatial relationships between points reflect specific harmonic intervals.
+
+If we were to derive the rays based on the Tonnetz lattice, we'll need to consider its unique structure. In the lattice, pitches are arranged in a hexagonal pattern, with perfect fifths running diagonally from bottom left to top right, major thirds from top to bottom, and minor thirds from bottom right to top left. The horizontal axis represents the cycle of fifths, while the vertical axes represent the cycles of major and minor thirds.
+
+Given our primary rays (Ray 1 as tonic, Ray 2 as dominant, and Ray 3 as subdominant), the derivative rays could be assigned based on their spatial relationships to these primary rays in the Tonnetz lattice.
+
+- Derivative Ray 4: The supertonic (ii), which is adjacent to both the tonic and dominant along the cycle of fifths axis.
+- Derivative Ray 5: The mediant (iii), which is adjacent to the tonic along the major third axis, and the dominant along the minor third axis.
+- Derivative Ray 6: The submediant (vi), which is adjacent to the subdominant along the major third axis, and the tonic along the minor third axis.
+- Derivative Ray 7: The leading tone (vii), which is adjacent to the dominant along the major third axis, and the subdominant along the minor third axis.
+
+This assignment reflects the harmonic relationships inherent in the Tonnetz lattice, providing a geometrical and visual approach to understanding the tonal structure. It aligns with the academic, philosophical, and rational tone of voice, emphasizing systematic exploration, logical reasoning, and evidence-based arguments. 
+
+As noted before, it's crucial to remember that this is a theoretical proposition, and the actual musical effects will depend on the specific composition and performance.

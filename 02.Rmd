@@ -1,0 +1,152 @@
+# Keirsey’s Four Temperaments
+
+Keirsey's temperament theory, as outlined on the official [Keirsey website](https://keirsey.com/temperament-overview/), presents a comprehensive and nuanced framework for understanding human behavior. This theory is based on the interaction of two fundamental dimensions of human behavior: communication and action. Each of these dimensions has two polarities - concrete versus abstract communication, and cooperative versus utilitarian action. The interaction of these polarities gives rise to **Keirsey's four main temperaments**: Artisan, Guardian, Idealist, and Rational.
+
+- Artisan Temperament The Artisan temperament arises from the combination of concrete communication and utilitarian action. Artisans are characterized by their artistic actions, audacity, and adaptability. They are practical, spontaneous, and focused on the here and now. Their strength lies in their ability to skillfully manipulate tools, whether physical or conceptual, to achieve desired results. They tend to seek stimulation and value freedom, aesthetics, and impact.
+
+- Rational Temperament Rationals merge abstract communication with utilitarian action. They are distinguished by their ingenuity, autonomy, and willpower. Rationals are logical, strategic, and focused on understanding the world around them. They tend to pursue knowledge and competence, seeking solutions to complex problems. Rationals value objectivity, progress, and mastery.
+
+- Idealist Temperament Idealists embody the combination of abstract communication and cooperative action. They are characterized by their empathy, benevolence, and authenticity. Idealists are intuitive, spiritually inclined, and focused on personal growth and the growth of others. They tend to be passionate about potential and possibility, seeking meaning and significance in their lives. Idealists value integrity, unity, and personal development.
+
+- Guardian Temperament Guardians combine concrete communication with cooperative action. They are defined by their reliability, service, and respectability. Guardians are typically conservative, detail-oriented, and focused on duty and responsibility. They tend to uphold traditions and value security, efficiency, and community. Guardians are often seen as the societal glue, maintaining social institutions and preserving cultural heritage.
+
+Each of these temperaments represents a different way of interacting with the world, reflecting distinct interests, values, and strategies. They each have their unique strengths and challenges, and they each contribute uniquely to the richness and diversity of human experience.
+
+These four temperaments can be further subdivided into four types each, resulting in a total of 16 types. These 16 types provide a more detailed and precise understanding of individual differences and similarities, offering a robust and comprehensive framework for understanding human behavior.
+
+While Keirsey's theory provides a valuable tool for understanding and categorizing human behavior, it's important to remember that any such framework is a simplification of the complexity and diversity of human nature. It offers a useful starting point for exploration and discussion, but it does not capture the full range of human potentials and possibilities.
+
+## Orthogonality
+
+The four main Keirsey temperaments, namely the Guardians (SJ), Artisans (SP), Rationals (NT), and Idealists (NF), offer distinctive perspectives on personality types, each with its unique set of characteristics. However, as with any categorization system, some degree of overlap is inherent. The orthogonality, or independence, of these temperaments is a topic of much discussion within the field of personality psychology.
+
+At a fundamental level, the Keirsey temperament theory draws from the Jungian conceptual framework, which posits that personality types are determined by the interplay of cognitive functions: extraverted or introverted sensing, intuition, thinking, and feeling. Keirsey's temperaments are thus combinations of these cognitive functions, which naturally leads to some overlap.
+
+For instance, both Guardians and Artisans share the Sensing preference, indicating a focus on tangible, concrete information. However, where Guardians (SJ) tend to value security and order, adhering to established norms and traditions (due to their Judging preference), Artisans (SP) are more spontaneous and adaptable, seeking excitement and novelty (reflecting their Perceiving preference).
+
+On the other hand, Rationals (NT) and Idealists (NF) share the Intuitive preference, which involves a focus on abstract concepts and potentialities. Yet, Rationals, with their Thinking preference, tend to prioritize logical consistency and objective analysis, while Idealists, with their Feeling preference, are more attuned to personal values and emotional harmony.
+
+Despite these overlaps, each temperament stands out with unique traits. Guardians, for example, are reliable, diligent, and practical. Artisans are adaptable, creative, and spontaneous. Rationals are analytical, strategic, and objective, while Idealists are empathetic, idealistic, and introspective.
+
+In essence, the four Keirsey temperaments, while exhibiting some overlaps due to shared cognitive functions, also display distinct characteristics that set them apart. Their orthogonality can therefore be viewed as a complex interplay of shared and unique traits, reflecting the intricate and multifaceted nature of human personality. This perspective, grounded in the principles of cognitive psychology, personality theory, and philosophical rationalism, provides a comprehensive, nuanced understanding of the dynamics within and between the Keirsey temperaments.
+
+## Four cognitive functions
+
+The four cognitive functions (sensing, intuition, thinking, and feeling), which form the cornerstone of the Keirsey typology, present an intriguing question of orthogonality. Orthogonality, in this context, refers to the degree of independence or non-overlapping nature between these functions. This concept is a topic of substantial deliberation within the field of personality psychology.
+
+To embark on an exploration of this question, it's essential to understand the theoretical underpinnings of these cognitive functions. Sensing and intuition are information-gathering functions, dealing with how individuals perceive and interpret their environment. Sensing is concerned with tangible, concrete data, while intuition gravitates towards abstract concepts and potentialities. 
+
+Thinking and feeling, on the other hand, are decision-making functions that dictate how individuals evaluate information and make judgments. Thinking emphasizes logical reasoning and objectivity, whereas feeling prioritizes values and emotional considerations.
+
+From a theoretical standpoint, these functions might appear to be orthogonal, given that they address different aspects of cognition – information gathering and decision making. However, in practical application within the Jungian framework (from which Keirsey draws), these functions are typically intertwined. For instance, an individual may gather information through sensing or intuition and then process this information using either thinking or feeling. Thus, the interplay between these functions suggests a certain degree of overlap and interaction, challenging the notion of absolute orthogonality.
+
+In addition, each individual tends to favor one function from each pair (either sensing or intuition, and either thinking or feeling), further complicating the notion of orthogonality. While one might argue that the preferred functions in an individual are orthogonal to the non-preferred ones, the human psyche's complexity often results in the use of all four functions to varying degrees.
+
+Therefore, while the four cognitive functions – sensing, intuition, thinking, and feeling – address different aspects of cognition, their interactive nature and the intricacies of individual cognitive preferences challenge the notion of strict orthogonality. This perspective, grounded in the principles of cognitive psychology, philosophical rationalism, and empirical evidence, provides an academic, philosophical, and rationally grounded understanding of the dynamics and interactions of the cognitive functions within the Keirsey typology.
+
+However, from a theoretical perspective, sensing and intuition can be considered orthogonal, as can thinking and feeling. This is primarily because each pair represents two distinct and contrasting ways of processing information.
+
+**Sensing and intuition** are different methods of perceiving the world around us. Sensing is focused on the concrete, immediate, and tangible aspects of our reality, relying heavily on our five senses. It involves direct observation and practicality. In contrast, intuition delves into the abstract, future possibilities, and potentialities, often referred to as 'reading between the lines'.
+
+**Thinking and feeling** represent two different modes of judgment or decision-making. Thinking emphasizes logical reasoning and objective analysis, focusing on facts, principles, and impersonal considerations. Feeling, on the other hand, is more attuned to personal values, emotional implications, and interpersonal harmony.
+
+The orthogonality of these pairs lies in their theoretical distinction and mutual exclusivity within an individual's primary mode of operation. That is, people tend to favor either sensing or intuition as their primary way of perceiving the world and either thinking or feeling as their preferred mode of making decisions or judgments.
+
+However, it's important to note that while these pairs may be theoretically orthogonal, humans are complex beings whose cognitive processes cannot be neatly boxed into these categories. Thus, while an individual may predominantly operate using one function over the other within a pair, they will likely engage all four functions to varying degrees, depending on the context and circumstances.
+
+In conclusion, while the concept of orthogonality applies to the theoretical distinction and mutual exclusivity of sensing versus intuition and thinking versus feeling, the complexity of human cognition and the fluidity of our mental processes mean that these functions interact and overlap in practice. This perspective is grounded in empirical evidence, philosophical rationalism, and systematic exploration, offering a nuanced understanding of the dynamics and interplay of these cognitive functions.
+
+## Paths to self-esteem
+
+**Artisans - Freedom**
+
+In the pursuit of understanding human behavior and personality, David Keirsey's temperament theory posits a profound insight. It postulates that individuals who fall under the 'Artisan' temperament are intrinsically driven by the pursuit of freedom. This cardinal pursuit is not merely an external objective but rather an existential quest that fundamentally shapes their identity, actions, and interactions with the world.
+
+The concept of freedom, in this context, transcends its conventional connotations of liberty or independence. For Artisans, it signifies the capacity to navigate the realm of the immediate and tangible, to respond adeptly to the exigencies of the moment, to exercise their tactical intelligence in a spontaneous and versatile manner, and to manifest their unique form of creativity - their artistry.
+Artistry, for the Artisan, is not confined to the traditional domains of arts such as music, painting, or dance. Rather, it permeates all aspects of their life, imbuing their every action with a distinctive flair, agility, and adaptability. Whether they are solving a problem, making a decision, crafting an object, or engaging in a conversation, Artisans demonstrate a remarkable ability to manipulate the concrete world in a skilled, impactful, and aesthetically pleasing way.
+
+Importantly, it is through this demonstration of artistry that Artisans attain self-esteem. The act of creating, of effectively influencing their environment or audience, of producing something tangible, novel, and beautiful, affirms their competence, autonomy, and worth. It validates their identity as Artisans and reinforces their sense of self.
+
+This perspective resonates with the philosophical tradition of existentialism, which emphasizes individual freedom, authenticity, and the creation of meaning through one's actions. It also aligns with the psychological literature on self-determination theory, which identifies autonomy, competence, and relatedness as key elements of intrinsic motivation and psychological well-being.
+
+In conclusion, the Artisan's path to self-esteem is intricately interwoven with their pursuit of freedom and their demonstration of artistry. Their freedom enables their artistry, their artistry embodies their freedom, and together, they contribute to their self-esteem. This intricate nexus underscores the complexity and dynamism of the Artisan temperament, offering a rich, nuanced understanding of their motivations, capabilities, and aspirations.
+
+**Rationals - Knowledge**
+
+Within the framework of David Keirsey's temperament theory, the 'Rational' temperament, often categorized as the 'NT' type in the Myers-Briggs Type Indicator, is fundamentally anchored in the pursuit of knowledge. This core pursuit is not simply an intellectual endeavor but a profound existential quest that shapes their identity, worldview, and interactions with the world.
+
+The concept of knowledge, within this context, extends beyond the conventional understanding of information or facts. For Rationals, it signifies a relentless drive to comprehend the underlying principles and structures of reality, to decipher the patterns and causal relationships among phenomena, and to construct coherent, comprehensive, and predictive models of the world. It involves a systematic process of inquiry, analysis, and synthesis, aiming to cultivate a robust, precise, and nuanced understanding of the universe.
+
+Simultaneously, Rationals are characterized by their exceptional capacity for mastery. Mastery, in this case, is not merely a demonstration of superior skill or command over a particular domain. It is a manifestation of their ability to apply their knowledge effectively and innovatively, to solve complex problems, to devise efficient strategies, and to produce significant, impactful outcomes.
+
+Importantly, it is through this demonstration of mastery that Rationals attain self-esteem. The act of mastering, of exerting control over their environment, of realizing their intellectual visions in concrete, tangible forms, affirms their identity as Rationals and reinforces their sense of self-worth. It validates their competence in their chosen domain of knowledge, enhances their sense of efficacy and significance, and contributes to their overall psychological well-being.
+
+This perspective aligns closely with the philosophical tradition of rationalism, which emphasizes the primacy of reason, knowledge, and mastery as key elements of human nature and progress. It also resonates with the psychological literature on self-efficacy theory, which identifies mastery experiences as a central source of self-efficacy beliefs and self-esteem.
+
+Moreover, empirical research in cognitive and educational psychology has consistently shown a positive relationship between knowledge, mastery, and self-esteem. By demonstrating mastery, individuals not only contribute to their personal growth and societal advancement but also enhance their own self-perceptions and psychological health.
+
+In conclusion, the Rational's path to self-esteem is intricately interwoven with their pursuit of knowledge and their demonstration of mastery. Their knowledge enables their mastery, their mastery embodies their knowledge, and together, they contribute to their self-esteem. This intricate nexus underscores the complexity and dynamism of the Rational temperament, offering a rigorous, sophisticated understanding of their motivations, capabilities, and aspirations.
+
+**Idealists - Authenticity**
+
+In the realm of David Keirsey's temperament theory, the 'Idealist' temperament, often designated as the 'NF' type in the Myers-Briggs Type Indicator, is fundamentally guided by the pursuit of authenticity. This cardinal pursuit is not merely an external ambition but a profound existential quest that shapes their identity, values, and interactions with the world.
+
+The concept of authenticity, within this context, transcends its conventional definition of originality or genuineness. For Idealists, it signifies an intrinsic drive to understand and express their true self, to align their actions with their deeply held beliefs and values, and to actualize their potential in a meaningful, fulfilling manner. It involves a continual process of introspection, self-discovery, and personal growth, aiming to cultivate a congruent, integrated self-concept.
+
+Simultaneously, Idealists are characterized by their exceptional capacity for empathy. Empathy, in this case, is not merely a cognitive ability to understand others' perspectives or an emotional response to others' feelings. It is a profound, encompassing attunement to the inner world of others, an intuitive grasp of their experiences, aspirations, and struggles, and a compassionate, humane response to their needs and concerns.
+
+Importantly, it is through this demonstration of empathy that Idealists attain self-esteem. The act of empathizing, of connecting deeply with others, of responding sensitively and constructively to their emotions, affirms their identity as Idealists and reinforces their sense of self-worth. It validates their competence in their chosen domain of interpersonal relations, enhances their sense of efficacy and significance, and contributes to their overall psychological well-being.
+
+This perspective aligns closely with Carl Rogers' humanistic psychology, which emphasizes authenticity and empathy as key elements of personal growth and effective therapy. It also resonates with the philosophical tradition of existentialism, which underscores individual freedom, responsibility, and the creation of meaning through one's actions.
+
+Moreover, research in social and personality psychology has consistently shown a positive relationship between empathy, authenticity, and self-esteem. By demonstrating empathy, individuals not only contribute to the well-being of others but also enhance their own self-perceptions and psychological health.
+
+In conclusion, the Idealist's path to self-esteem is intricately interwoven with their pursuit of authenticity and their demonstration of empathy. Their authenticity enables their empathy, their empathy embodies their authenticity, and together, they contribute to their self-esteem. This intricate nexus underscores the complexity and dynamism of the Idealist temperament, offering a rich, nuanced understanding of their motivations, capabilities, and aspirations.
+
+**Guardians – Service/Duty**
+
+In the realm of David Keirsey's temperament theory, Guardians, also known as the "SJ" types in the Myers-Briggs Type Indicator, are identified by their inherent focus on service and duty. These individuals are underpinned by a deep-seated need to provide assistance and support to others, acting as the societal cornerstone that upholds traditions and ensures the smooth functioning of institutions.
+
+The philosophy behind this temperament is centered on the idea of service as a core pursuit. This pursuit can be understood as a fundamental drive or motivation that shapes the Guardian's behavior, values, and self-concept. It is not simply an external obligation, but rather an integral aspect of their identity and worldview.
+
+Guardians derive their self-esteem from the act of service. They find fulfillment and validation in being dependable, helpful, and responsible. When they are able to effectively assist others, fulfill their responsibilities, and contribute to their community or organization, they experience a boost in their self-worth and confidence.
+
+This perspective can be grounded in several psychological theories. For instance, the concept of "generativity" proposed by Erik Erikson, a renowned developmental psychologist, refers to the concern for establishing and guiding the next generation. This aligns closely with the Guardian's focus on service and support. Similarly, the notion of "prosocial behavior" in social psychology, which involves actions intended to help others, also resonates with this temperament.
+
+Moreover, research has consistently shown a positive relationship between helping behaviors and self-esteem. By providing help and support, individuals not only contribute to the well-being of others but also enhance their own self-perceptions and psychological health.
+
+However, it is crucial to note that while service is a key aspect of the Guardian temperament, it is not the sole determinant of their self-esteem. Numerous other factors, such as personal achievements, relationships, and societal norms, can also influence their self-worth.
+
+In conclusion, for Guardians, service is a fundamental pursuit that shapes their interactions, decisions, and self-perception. Their self-esteem is intrinsically linked to their ability to provide help and support to others. By fulfilling this role, they affirm their value and significance, reinforcing their sense of self-worth and satisfaction.
+
+## Four Types of Intelligence
+
+David Keirsey's temperament theory, as outlined on the official Keirsey website, proposes that there are four distinct types of intelligence, each associated with a specific temperament: Artisan, Guardian, Idealist, and Rational. These temperaments arise from the interaction of two fundamental dimensions of human behavior: communication and action.
+
+- Artisan Intelligence: Artisans are characteristically practical, adaptable, and focused on the present. They are concrete in their communication, often speaking about tangible realities, and utilitarian in their action, focusing on what works in the moment.
+Artisan intelligence is characterized by tactical manipulation. It involves skillfully handling and adjusting to immediate situations and challenges. The core pursuit for artisans is freedom, and their path to self-esteem is through demonstrating artistry. *
+
+- Guardian Intelligence: Guardians are typically reliable, detail-oriented, and duty-focused. They communicate concretely, dealing with facts and observable realities, and act cooperatively, prioritizing social harmony. Guardian intelligence is characterized by logistical management. This entails organizing and coordinating resources, people, and processes to ensure stability and security. For guardians, service is the core pursuit, and their self-esteem arises from providing help and support to others.
+
+- Idealist Intelligence: Idealists are intuitively oriented, focused on personal growth and potential. They communicate abstractly, expressing ideas and possibilities, and act cooperatively, promoting unity and consensus. Idealist intelligence is characterized by diplomatic integration. It involves reconciling differences, facilitating personal and spiritual growth, and fostering harmonious relationships. The core pursuit for idealists is authenticity, and their path to self-esteem is through demonstrating empathy.
+
+- Rational Intelligence: Rationals are analytical, strategic, and knowledge-seeking. They communicate abstractly, discussing theories and concepts, and act utilitarian, focusing on efficiency and effectiveness. Rational intelligence is characterized by strategic analysis. This involves designing systems, solving problems, and acquiring theoretical understanding. For rationals, knowledge is the core pursuit, and their self-esteem arises from demonstrating mastery.
+
+These four types of intelligence reflect different ways of interacting with the world, each with its unique strengths and challenges. Keirsey suggests that while it is possible to develop all four types of intelligence, individuals tend to be naturally more adept in one type due to their inherent temperament. This view underscores the diversity of human potential and the value of different kinds of intelligence.
+ 
+While Keirsey's model offers a robust framework for understanding human behavior, it’s crucial to remember that any such model is a simplification of the complexity and diversity of human nature. It provides a valuable starting point for exploration and discussion but does not capture the full range of human potentials and possibilities.
+
+**On Artistry**
+
+Artistry, in the context of the Keirsey Temperament Sorter, refers to a unique blend of skills, talents, and abilities that Artisans possess and express in their own distinctive way. It is not solely confined to traditional artistic pursuits such as painting, music, or dance, but extends to any activity where there is scope for individual expression, creativity, and skill.
+
+Artisans are characterized by their ability to respond rapidly to the demands of the moment, demonstrating agility, resourcefulness, and practical ingenuity. Their intelligence type is tactical, meaning they excel at troubleshooting, improvising, and adapting to immediate circumstances. This can be seen in numerous domains, from the performing arts to sports, business, politics, or any field requiring real-time problem-solving and quick decision-making.
+
+The concept of artistry also encompasses an aesthetic dimension. Artisans have a natural inclination towards impactful, sensory-rich experiences. They appreciate beauty, novelty, and variety, and strive to create work that is not just effective, but also pleasing, exciting, or dramatic.
+
+For Artisans, demonstrating artistry means showcasing their talent, flair, and originality. It involves making a tangible impact on their environment or audience, whether by solving a problem, winning a competition, putting on a captivating performance, or simply creating something beautiful, novel, or thrilling. By doing so, they achieve a sense of personal satisfaction, freedom, and self-esteem.
+However, it's important to note that while artistry is a key aspect of the Artisan temperament, every individual is unique and may express their artistry in different ways. Furthermore, each person's path to self-esteem will be influenced by a multitude of factors, including their personal values, experiences, and aspirations, as well as their social, cultural, and environmental context.
+
+In conclusion, artistry, as it pertains to Artisans, is a broad and multifaceted concept, encompassing practical skill, creative expression, aesthetic appreciation, and the pursuit of impact and freedom. It is an integral part of the Artisan's identity and a key source of their self-esteem.
+
+

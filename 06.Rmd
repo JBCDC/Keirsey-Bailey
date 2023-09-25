@@ -1,0 +1,39 @@
+# Color Analysis
+
+**Color Analysis of the Seven Rays**
+
+A model based on the theory of additive color mixing, used when dealing with colors of light (not pigments(), will be considered next. In this model, colors are created by combining different intensities of red, green, and blue light.
+
+<center><img src="https://www.ngsm.org/images/7r19.png" alt="Color Wheel"></center>
+
+Given that:
+
+- Ray 1: Will or Power (higher expression) is represented by Red.
+- Ray 2: Love-Wisdom (higher expression) is represented by Indigo-Blue.
+- Ray 3: Active Intelligence (higher expression) is represented by Green.
+ 
+We can hypothesize the colors of the higher expressions of the derivative rays as follows, based on the theory of additive color mixing:
+
+- Ray 4 - Harmony through Conflict (higher expression): This ray is the synthesis of spiritual will (Ray 1 - Red) and unconditional love (Ray 2 - Indigo). When red and indigo light mix, they create a color that can be described as a deep magenta or violet, depending on the specific intensity and wavelength of the indigo light.
+
+Pale yellow, as an example, is typically produced by combining a high intensity of red light and green light, with a small amount of blue (cyan) light. Indigo, being closer to blue in the RGB model, does not contribute to the production of yellow when combined with red. Therefore, in the context of light, it's not possible to produce pale yellow by combining red and indigo.
+
+- Ray 5 - Concrete Science (higher expression): This ray represents the purposeful use of knowledge, combining spiritual will (Ray 1 - Red) and enlightened understanding (Ray 3 - Green). When red and green light are combined, they create yellow light.
+  - Pigment colors: Combining Red (Ray 1) and Yellow (Ray 3) would result in Orange. In terms of proportions, we could say that to achieve the color orange, one would need 100% red light and approximately 65% green light, with the absence of blue light.
+
+- Ray 6 - Devotion/Idealism (higher expression): This ray is a fusion of unconditional love (Ray 2 - Indigo) and enlightened understanding (Ray 3 - Green). Mixing green and indigo light results in a color that can be described as a light, bluish-green or cyan, again depending on the specific intensity and wavelength of the indigo light.
+
+- Ray 7 - Ceremonial Order (higher expression): As the culmination of all three primordial rays, this ray would combine Red (Ray 1), Indigo (Ray 2), and Green (Ray 3). When red, green, and blue (as the closest primary color to indigo in the RGB model) light are all combined, they create white light, symbolizing the integration of all aspects.
+
+This interpretation provides a theoretical framework for visualizing the higher expressions of the Bailey Rays in terms of light colors. It's important to note that this is a simplification and the actual result can vary depending on the specific wavelengths and intensities of the combined lights.
+
+For reference, the colors usually assigned to the Rays are shown below.
+
+<center><img src="https://www.ngsm.org/images/7r15.png" alt="Color Wheel"></center>
+
+<center><img src="https://www.ngsm.org/images/7r16.png" alt="Color Wheel"></center>
+
+
+
+
+

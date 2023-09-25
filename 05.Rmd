@@ -1,0 +1,88 @@
+# Training AI on the 7 Rays
+
+This chapter explores the virtues, vices, and dual expressions of the Seven Rays, which represent different aspects of human nature and occupations. Each ray is associated with specific qualities and occupations. Understanding these rays can provide insights into individuals' strengths and tendencies.
+
+## Virtues and Vices
+<br>
+<center><img src="https://www.ngsm.org/images/7r05.png" alt="table" width="600" height="800"></center>
+<br>
+
+## Higher and Lower Expressions 
+<br>
+<center><img src="https://www.ngsm.org/images/7r06.png" alt="table" width="600" height="800"></center>
+<br>
+
+## Rays and Occupations
+<br>
+<center><img src="https://www.ngsm.org/images/7r07.png" alt="table" width="600" height="800"></center>
+<br>
+
+## Delphi method simulation
+
+<center>**Keirsey and the Seven Rays: Preliminary Outline** 
+(simulating a Delphi method with AI)</center>
+<br>
+<center><img src="https://www.ngsm.org/images/7r08.png" alt="table"></center>
+<br>
+
+**Query to AI:**
+
+1. create an r by c matrix for r=7 and c=16
+2. let row index i = each of the 7 Bailey rays
+3. let column index j = each of the 16 Keirsey types
+4. populate each cell of the 7 by 16 matrix thus created with an index ranging from 0 to 9 qualitatively and theoretically reflecting how closely each Bailey Ray is related to each of 16 Keirsey types.
+
+To populate our 7x16 matrix with indices ranging from 0 to 9 reflecting how closely each Bailey Ray is related to each of the 16 Keirsey types, we would require a comprehensive understanding and analysis of both these models.
+
+This task entails an intricate, multi-layered exploration of the interplay between the Bailey Rays and Keirsey types. A 0 would indicate no correlation or alignment between a specific Bailey Ray and Keirsey type, while a 9 would denote a strong correlation or alignment.
+
+This matrix would offer a structured framework for exploring the relationship between the Bailey rays and the Keirsey types. However, it is important to remember that this is a theoretical construct, meant to guide our understanding rather than provide a definitive model. The true richness and complexity of human personality and esoteric energies cannot be fully captured within a numerical matrix.
+
+<br>
+<center><img src="https://www.ngsm.org/images/7r09.jpg" alt="table"></center>
+<br>
+
+The above matrix is a theoretical construct designed to stimulate thought and discussion. It provides a structured approach to explore potential alignments between the Bailey Rays and the Keirsey types. However, as already mentioned, it should not be perceived as an absolute or definitive mapping. The complexity of human personality and behavior cannot be fully encapsulated within a numerical matrix. Furthermore, individual differences and unique experiences can lead to variations in how these theories are manifested in real life.
+
+## Visualization
+
+Data visualization is a potent tool that transforms qualitative and quantitative information into accessible, intuitive graphical representations. Given the nature of your 7 by 16 matrix, which reflects the qualitative theoretical relationships between each Bailey Ray and the 16 Keirsey types, a suitable visualization approach would be a Heat Map.
+
+A **Heat Map** is a data visualization technique that displays the magnitude of a phenomenon as color in two dimensions. The variation in color intensity correlates with the value or magnitude of the variable being represented. In this case, the Heat Map would represent the Bailey Rays on one axis and the Keirsey types on the other, with each cell's color indicating the degree of relatedness (indexed from 0 to 9) between a particular Bailey Ray and Keirsey type.
+
+This choice is underpinned by several logical considerations:
+
+1. Clarity and Precision: A Heat Map offers a clear, precise representation of the relationships within your matrix, with color intensity providing an immediate visual cue of the degree of relatedness.
+2. Comprehensiveness: All the Bailey Rays and Keirsey types can be displayed simultaneously, facilitating a comprehensive overview of the entire matrix.
+3. Comparability: By mapping all the relationships onto a two-dimensional plane, a Heat Map allows for easy comparison across different Bailey Rays and Keirsey types.
+4. Visual Impact: The use of color not only enhances the map's aesthetic appeal but also reinforces the intuitive understanding of the relationships.
+5. Evidence-based Representation: The Heat Map's color intensity is directly tied to the index values in your matrix, ensuring an accurate, evidence-based representation of the data.
+
+To further augment the clarity and interpretability of the Heat Map, it would be beneficial to include a color legend or scale that explicates the correlation between color intensity and the index values (0-9). This addition would ensure that the visualization remains grounded in rationality, aligning with the brand voice's emphasis on clarity, precision, logical reasoning, systematic exploration, and evidence-based arguments.
+
+**Heatmap Table**
+
+<br>
+<center><img src="https://www.ngsm.org/images/7r10.png" alt="table"></center>
+
+N = 112
+Average = 5.91
+
+<br>
+<center><img src="https://www.ngsm.org/images/7r11.png" alt="table"></center>
+<br>
+Excluding outlier (2) for Will-Power Ray 1 and Idealist INFP
+<br>
+<center><img src="https://www.ngsm.org/images/7r12.png" alt="table"></center>
+<br>
+
+**Clear contrast between Rationals (1-3-5) and Idealists (2-4-6). The Artisans and Guardians require subgroup analyses.** 
+
+A distinct contrast is evident between Rationals, where Rays 1-3-5 are predominant, and Idealists, where Rays 2-4-6 take precedence. These findings demonstrate a clear alignment between these specific psychological types and their corresponding attribute rays.
+
+However, the results present a more complex picture for Artisans and Guardians. The concordance analysis for these temperaments does not yield as definitive results, indicating a more nuanced or ambiguous relationship between these Keirsey temperaments and their corresponding Bailey attribute rays.
+
+This finding underscores the complexity of human psychology and the challenges inherent in neatly mapping psychological types onto attribute rays.
+
+
+
