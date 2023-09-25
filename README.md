@@ -1,6 +1,6 @@
 # Keirsey-Bailey
 
-<center>**The 7 Bailey Ray Types Correlated with Keirsey's 4 Temperaments and 16 Personality Types**</center> 
+**The 7 Bailey Ray Types Correlated with Keirsey's 4 Temperaments and 16 Personality Types**
 
 The construct validity of the seven psychological types posited by Alice A. Bailey serves as an intriguing subject for exploration, especially when contrasted with the well-established Myers-Briggs typology adapted by David Keirsey. The Four Keirsey Temperaments—Artisan, Rational, Idealist, and Guardian—demonstrate a striking congruence with the Four Derivative Rays of Attributes—Fourth Ray of Harmony Through Conflict, Fifth Ray of Science, Sixth Ray of Devotion and Idealism, and the Seventh Ray of Ceremonial Order—originating from the Three Primary Rays of Aspect: First Ray of Will Power, Second Ray of Love Wisdom, and Third Ray of Creative Intelligence.
 
