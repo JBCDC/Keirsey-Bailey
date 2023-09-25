@@ -20,9 +20,9 @@ The main conclusions of this study are:
 
 It’s crucial to acknowledge that this is a purely theoretical approach to the subject. However, it’s worth noting that theoretical physics has often paved the way for empirical discoveries, predicting the existence of subatomic particles before they were experimentally verified. In a similar vein, this initial exploration might serve as a foundation for subsequent theoretical and empirical research. The goal would be to validate with the 7-rays construct what has already been revealed through the study of sound (music) and light (color): a sevenfold key to unraveling the complexities of evolution and human consciousness. -JB 2023.09.25
 
-  **Author:** [JB](https://bookdown.org/becerra_je/Jasper01/author-jb.html#biographical-sketch)
+Complete document at: <https://bookdown.org/becerra_je/7-Rays/>
 
-  Complete document at: <https://bookdown.org/becerra_je/7-Rays/>
+**Author:** [JB](https://bookdown.org/becerra_je/Jasper01/author-jb.html#biographical-sketch)
 
 
 
